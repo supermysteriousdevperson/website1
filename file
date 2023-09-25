@@ -1,3 +1,1 @@
-FORTRAN?  The syntactically incorrect statement "DO 10 I = 1.10" will parse and
-generate code creating a variable, DO10I, as follows: "DO10I = 1.10"  If that
-doesn't terrify you, it should.
+Remember the good old days, when CPU was singular?
