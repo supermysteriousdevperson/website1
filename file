@@ -1,2 +1,3 @@
-"I only touch base with reality on an as-needed basis!"
-		-- Royal Floyd Mengot (Klaus)
+FORTRAN?  The syntactically incorrect statement "DO 10 I = 1.10" will parse and
+generate code creating a variable, DO10I, as follows: "DO10I = 1.10"  If that
+doesn't terrify you, it should.
